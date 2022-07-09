@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm a Machine Learning and cloud enthusiast.Currently focusing on Web Development technologies and cybersecurity frameworks.\
 ✍️ &nbsp;In my free time, I love to dance and read manga.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at pratyushbalivada@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at pratyushbalivada@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
